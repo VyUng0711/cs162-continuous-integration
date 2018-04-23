@@ -1,5 +1,5 @@
 click==6.7
-Flask==0.12.2
+Flask==0.12.2/Users/VyUng/Documents/MyCode/CS162Code/cs162-continuous-integration/tests/requirements.txt
 Flask-SQLAlchemy==2.3.2
 itsdangerous==0.24
 Jinja2==2.10
